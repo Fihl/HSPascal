@@ -1,0 +1,64 @@
+The file tAIB03e8.bin is required as it is mentioned in HSSys1. It gives the HSPascal icon. Otherwise change HSSys1.pas by removing or changing the $R line.
+
+Unit HSSys1;
+
+interface
+
+{$R .\tAIB03e8.bin}
+
+implementation
+
+End.
+
+
+You can override this one by using your own tAIB resource #1000 in your own source file. Also when not changing HSSys1.
+
+
+Floating point:
+Note that X:=2 * X is exactly the same as X:=2.0 * X; You do not need all those ".0" to speedup things.
+
+
+The files inside Units/ (with two subdirectories) are included in the header files library HSPasLib.zip. 
+As they gets compiled before the library lookup you:
+o: can change them. Please send me your fixes
+o: MUST remove old ones before installing on top of an old version.
+
+
+The files Units/HSSys*.pas are the HSPascal System runtime. 
+
+The files Units/UI/*.pas and Units/System/*.pas are Palm specific. 
+
+When using the Library zip-file, you do not need to give {$SearchPath Units; Units\UI; Units\System}
+
+
+
+
+Installation:
+
+Unzip to a folder named whatever you like.
+First REMOVE any old "Units" folder from this folder!!
+
+Initial test: Run the CompAll.bat batch file, and verify you get some PRC files in your directory.
+
+Start HSPascal.exe
+
+Press File Open, chose a demo, and then F9 (to open and compile)
+
+Find your compiled program in the same folder as the *.Pas source.
+Maybe press F11 to see the generated code in assembler.
+
+PS: Either use HSPasLib.zip or the Units folder. 
+    HSPasLib.zip is one big file with all that is in Units.
+    You can remove one or the other. 
+    The Units folder is used before the HSPasLib.zip if the folder exists.
+    When using the Library you need not to {$SearchPath Units; Units\UI; Units\System}
+
+
+
+
+Known problems.
+
+SaveAs does not update the TabControl before loading the file again.
+
+
+Christen Fihl

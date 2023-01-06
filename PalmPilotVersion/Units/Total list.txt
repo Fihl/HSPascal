@@ -1,0 +1,16 @@
+HSSys1,HSSys2,HSSys3,HSSys4,HSSys5,Traps30,Traps31,Traps33,Traps35,
+
+AlarmMgr,AppLaunchCmd,Bitmap,Blitter,CharAttr,CharLatin,Chars,CMCommon,CMLConst,
+ConnectionMgr,ConsoleMgr,Crc,CTP,CUDP,DataMgr,DateTime,DebugMgr,DLCommon,DLServer,DLUtil,
+EmuStubs,Encrypt,ErrorBase,ErrorMgr,ExgLib,ExgMgr,
+FeatureMgr,FileStream,FloatMgr,Font,Graffiti,HostControl,
+ImcUtils,IntlMgr,IrLib,KeyMgr,Localize,MemoryMgr,ModemMgr,
+NetBitUtils,NetMgr,NotifyMgr,OverlayMgr,Password,PenMgr,Preferences,
+Rect,SecurityMgr,SerialLinkMgr,SoundMgr,StringMgr,SysEvent,SysEvtMgr,
+SystemMgr,SystemPkt,SysUtils,TextMgr,TextServicesMgr,TimeMgr,Window,
+
+AboutBox,Category,Clipboard,Control,Day,Event,FatalAlert,Field,Find,FontSelect,Form,
+GraffitiReference,GraffitiShift,InsPoint,Keyboard,Launcher,List,
+Menu,PhoneLookup,PrivateRecords,Progress,ScrollBar,SelDay,SelTime,
+Table,UIColor,UIControls,UIPublic,UIResources
+;

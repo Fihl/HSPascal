@@ -1,0 +1,19 @@
+hspc Demo\DoodleHS
+hspc Demo\CompAll
+hspc Demo\HelloWorld
+hspc Demo\Harmonics
+hspc Demo\HsDemo1
+hspc Demo\FpTest
+hspc Demo\HSBenchWinikoff
+hspc Demo\Numerus\Numerus
+hspc Demo\Cells\Cells
+hspc Demo\Matches\Matches
+hspc Demo\TuningFork\TuningFork
+hspc Demo\AnaClock1.1\AnaClock02.pas
+hspc Demo\DigiClock\DigiClock.pas
+hspc Demo\HelloBigWorld\Hello
+hspc Demo\Primes\Primes
+hspc Demo\Txt2Hex\Txt2Hex
+hspc Demo\Echo\Echo
+hspc Demo\NekoCat\NekoCat
+pause
