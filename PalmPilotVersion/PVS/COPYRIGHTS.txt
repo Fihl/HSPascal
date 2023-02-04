@@ -1,0 +1,12 @@
+https://github.com/pascal-validation/validation-suite
+
+The Pascal Validation Suite, version 5.7
+NOTICE
+Copyright in the Pascal Validation Suite is the property of the British Standards Institution (BSI). 
+To encourage wider recognition of and adherence to the Pascal standard, ISO 7185, BSI have agreed to make the Suite availble "as is" in the present form on the following three terms:
+
+that BSI's copyright is acknowledged;
+that no representation is made on the basis of use of the Suite which might suggest that a third-party validation had been carried out;
+that any other representation of the results of running the Suite must describe performance on the whole suite and not simply on selected tests.
+
+
