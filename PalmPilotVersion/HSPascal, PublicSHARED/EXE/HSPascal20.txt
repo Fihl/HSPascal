@@ -1,0 +1,35 @@
+HSPascal version 2.0                                     April 2003
+
+This is full HSPascal product, do not dublicate the product or its codeword
+
+Codeword for HSPascal version 2.0 is:  hspc020601
+(lowercase and 3 times zero, just use copy and paste if getting problems!)
+
+Installation:
+1: Please get the HSPascal installation from web address:
+   http://HSPascal.Fihl.net/HSPascal20/HSPascal20.exe
+   User: HSUser, Password: hspc020601
+2: Start program (HSPascal), load an example, press F9
+3: Find the generated prc program in the same folder as the source 
+4: In ordef for F1 to work correct i HSPascal, the program CompAll.pas needs 
+   to be compiled. Do this easy by executing the CompAll.bat batch file.
+
+New versions will be on this same address. 
+  http://HSPascal.Fihl.net/HSPascal20/
+And a release note web page on 
+  http://HSPascal.Fihl.net/HSPascal20/HSPascal20.html
+
+
+A newsserver is running for users and beta testers. Please check it out. If you get problems/questions, please ask them in the newsgroup. Then everybody benefits from it, including me. 
+
+In case you need more information, please feel free to mail me. General Palm help I do not have. Then it might be time to join the newsgroup. 
+
+The newsserver is installed as:
+Server:      news://news.fihl.net
+User:        beta
+Password:    tester
+
+Thanks for trying HSPascal
+
+Christen Fihl
+http://HSPascal.Fihl.net/
